@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\bin\Debug\Lab3cs.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\obj\Debug\Lab3cs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\bin\Debug\Lab3cs.exe
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\bin\Debug\Lab3cs.pdb
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\obj\Debug\Lab3cs.exe
+c:\users\user\documents\visual studio 2013\Projects\Lab3cs\Lab3cs\obj\Debug\Lab3cs.pdb
+C:\Users\user\Documents\docs\OOP\Lab3cs\Lab3cs\bin\Debug\Lab3cs.exe.config
+C:\Users\user\Documents\docs\OOP\Lab3cs\Lab3cs\obj\Debug\Lab3cs.exe
+C:\Users\user\Documents\docs\OOP\Lab3cs\Lab3cs\obj\Debug\Lab3cs.pdb
